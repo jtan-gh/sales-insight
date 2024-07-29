@@ -28,7 +28,7 @@ https://app.powerbi.com/view?r=eyJrIjoiNmUxZTgzMTQtOWM3Yi00ZWI4LWI1MjktY2FjNWUwY
 
 ## Local Setup Instructions
 Follow the steps below to run this project locally:
-1. Clone this repository: ```git clone "https://github.com/Jtan99/sales-insight.git"```
+1. Clone this repository: ```git clone "https://github.com/jtan-gh/sales-insight.git"```
 2. Follow this [guide](https://dev.mysql.com/doc/workbench/en/wb-admin-export-import-management.html) to import the db_dump.sql into MySQL
 3. Open the PowerBi file (file with pbix extension)
     - If the PowerBi file and the local MySQL server is not connected, refer to this [guide](https://learn.microsoft.com/en-us/power-bi/connect-data/service-gateway-sql-tutorial) to set up
